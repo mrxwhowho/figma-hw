@@ -1,0 +1,432 @@
+@font-face {
+  font-family: "DM Sans";
+  src: local("400"), url(/shrift/DMSans-Bold.ttf);
+}
+@font-face {
+  font-family: "DM Sans";
+  src: local("700"), url(/shrift/DMSans-Regular.ttf);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  color: white;
+}
+.card {
+  display: flex;
+  justify-content: center;
+}
+.eer {
+  height: 5500px;
+  width: 1440px;
+  background-color: rgba(0, 0, 0, 0.9);
+}
+.upper {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  width: 100wh;
+  height: 119px;
+}
+.werrr {
+  height: 55px;
+}
+.text {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+}
+.pop {
+  font-family: "DM Sans";
+  font-weight: 400;
+  font-size: 25px;
+  color: #118da8;
+  padding-top: 15px;
+  padding-left: 660px;
+}
+.rok {
+  font-family: "DM Sans";
+  font-weight: 400;
+  font-size: 25px;
+  padding-top: 15px;
+}
+.djas {
+  font-family: "DM Sans";
+  font-weight: 400;
+  font-size: 25px;
+  padding-top: 15px;
+}
+.papa {
+  font-family: "DM Sans";
+  font-weight: 400;
+  font-size: 25px;
+  padding-top: 15px;
+}
+.w124 {
+  display: flex;
+  align-content: start;
+}
+.siple {
+  display: flex;
+  flex-direction: row;
+
+  height: 913px;
+  padding-left: 20px;
+  padding-top: 15px;
+}
+.btr {
+  display: flex;
+  flex-direction: column;
+  padding-left: 50px;
+
+  justify-content: center;
+}
+.pppp {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+}
+.ttt {
+  font-family: "DM Sans";
+  font-weight: 400;
+  font-size: 85px;
+}
+.next {
+  font-family: "DM Sans";
+  font-weight: 400;
+  font-size: 50px;
+  position: relative;
+}
+.level {
+  font-family: "DM Sans";
+  font-weight: 700;
+  font-size: 80px;
+}
+.l {
+  position: absolute;
+  bottom: -5px;
+}
+.listen {
+  margin-top: 100px;
+  font-family: "DM Sans";
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.7);
+  margin-bottom: 15px;
+}
+.p {
+  margin-right: 10px;
+}
+.text1 {
+  padding-top: 200px;
+}
+.tom {
+  height: 80px;
+  display: flex;
+  flex-direction: row;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.jerri {
+  height: 60px;
+  width: 220px;
+  background-color: #118da8;
+  border-radius: 10px;
+  color: #e5e5e5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+}
+.VIEW {
+  height: 60px;
+  width: 220px;
+  background-color: #118da8;
+  border-radius: 10px;
+  color: #e5e5e5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  margin-left: 50px;
+}
+
+.latestep {
+  font-family: "DM Sans";
+  font-weight: 400;
+  font-size: 70px;
+  margin-right: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ep3 {
+  display: flex;
+  flex-direction: row;
+  height: 550px;
+  background-color: black;
+  padding: 22.5px;
+  border-radius: 40px;
+  width: 1380px;
+  margin-left: 20px;
+  padding-top: 35px;
+  padding: 40px;
+  margin-top: 50px;
+}
+.gear {
+  font-family: "DM Sans";
+  font-weight: 400;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+.gear2 {
+  font-family: "DM Sans";
+  font-weight: 400;
+  font-size: 18px;
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  padding-top: 5px;
+}
+.gear3 {
+  height: 30px;
+  width: 150px;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 7px;
+}
+.gear1 {
+  height: 30px;
+  width: 100px;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 7px;
+}
+.epis3 {
+  font-family: "DM Sans";
+  font-weight: 400;
+  font-size: 17px;
+  color: #118da8;
+  margin-top: 50px;
+}
+.should {
+  font-family: "DM Sans";
+  font-weight: 400;
+  font-size: 64px;
+  padding-top: 15px;
+}
+.is {
+  font-family: "DM Sans";
+  font-weight: 400;
+  font-size: 22px;
+  color: rgba(255, 255, 255, 0.6);
+  margin-top: 25px;
+  margin-bottom: 40px;
+}
+.text5 {
+  padding-left: 50px;
+}
+.black2 {
+  display: flex;
+  flex-direction: row;
+}
+.cryg {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-color: #118da8;
+
+  position: relative;
+  margin-top: 150px;
+}
+.meet {
+  color: #118da8;
+  font-family: "DM Sans";
+  font-weight: 400;
+  font-size: 17px;
+  margin: 20px 0px;
+}
+.jacob {
+  font-family: "DM Sans";
+  font-weight: 400;
+  font-size: 65px;
+  margin-bottom: 50px;
+}
+.has {
+  font-family: "DM Sans";
+  font-weight: 400;
+  font-size: 22px;
+  color: rgba(255, 255, 255, 0.6);
+  margin-bottom: 40px;
+}
+.hes {
+  font-family: "DM Sans";
+  font-weight: 400;
+  font-size: 22px;
+  color: rgba(255, 255, 255, 0.6);
+}
+.black2 {
+  margin-top: 50px;
+}
+.text10 {
+  margin-right: 90px;
+  margin-left: 20px;
+}
+.strelka {
+  position: absolute;
+  top: 26%;
+  right: 10px;
+}
+.negr {
+  margin-right: 40px;
+}
+.register {
+  display: flex;
+  flex-direction: row;
+  margin-top: 150px;
+  margin-left: 20px;
+  margin-right: 40px;
+  width: 1380px;
+  height: 387px;
+  background-color: black;
+  border-radius: 30px;
+  padding-right: 60px;
+  padding-left: 50px;
+  padding-top: 70px;
+}
+.regis {
+  display: flex;
+  flex-direction: column;
+  margin-left: 350px;
+}
+input {
+  width: 520px;
+  height: 82px;
+  border-radius: 10px;
+  font-size: 30px;
+  border: none;
+  color: #e5e5e5;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+.name {
+  margin-bottom: 20px;
+}
+.email {
+  font-family: "DM Sans";
+  font-weight: 400;
+  font-size: 17px;
+  color: #118da8;
+}
+.subscribe {
+  font-family: "DM Sans";
+  font-weight: 400;
+  font-size: 72px;
+  color: #e5e5e5;
+}
+.VIEW3 {
+  height: 52px;
+  width: 98px;
+  background-color: #118da8;
+  margin-top: 20px;
+
+  color: #e5e5e5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
+}
+::placeholder {
+  padding: 20px;
+}
+.box {
+  width: 450px;
+  height: 320px;
+  border-radius: 30px;
+  background-color: black;
+  padding-left: 50px;
+  padding-top: 40px;
+  margin-top: 30px;
+  padding-right: 50px;
+}
+.floor {
+  margin-left: 20px;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+.stars {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  margin-bottom: 30px;
+}
+.I {
+  font-family: "DM Sans";
+  font-weight: 400;
+  font-size: 35px;
+  color: #e5e5e5;
+}
+.Betty {
+  font-family: "DM Sans";
+  font-weight: 400;
+  font-size: 22px;
+  color: rgba(255, 255, 255, 0.6);
+  padding-top: 15px;
+}
+.finish {
+  display: flex;
+  flex-direction: row;
+  gap: 250px;
+  margin-top: 200px;
+  margin-left: 20px;
+  margin-right: 40px;
+}
+.cast {
+  display: flex;
+  flex-direction: column;
+}
+.ins {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
+nav {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.style {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.size {
+  margin-bottom: 8px;
+  font-family: "DM Sans";
+  font-weight: 400;
+  font-size: 15;
+  color: #e5e5e5;
+}
+.rel {
+  position: relative;
+}
+.line2 {
+  position: absolute;
+  top: 110px;
+  left: -6px;
+}
+.line3 {
+  position: absolute;
+  left: -40px;
+  bottom: -40px;
+}
+.register {
+  position: relative;
+}
